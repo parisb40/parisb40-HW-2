@@ -1,2 +1,2 @@
-# parisb40-HW-2
-the secomd homework for the class
+# parisb40-HW-1
+the first homework for the class
